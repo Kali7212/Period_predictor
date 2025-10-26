@@ -1,3 +1,3 @@
 # Period_predictor
 
-Download file "period_ganhua"
+Download file "period_ganhua.R"
